@@ -1,2 +1,2 @@
 # java-sistemas
- Sistemas simples em Java
+Repositório para sistemas simples em Java
