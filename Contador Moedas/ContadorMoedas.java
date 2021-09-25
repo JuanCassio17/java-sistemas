@@ -7,8 +7,8 @@ public class Main {
     	// Variáveis
     	float[] valor = {0.05f, 0.10f, 0.25f, 0.50f, 1.00f};
     	float cincox, dezx, vintecincox, cinquentax, realx;
-		float nota;
-	    float total;
+	float nota;
+	float total;
 
 		System.out.println("----- CONTADOR DE MOEDAS -----");
 		Scanner leitor = new Scanner(System.in);
