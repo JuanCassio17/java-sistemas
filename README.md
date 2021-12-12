@@ -1,2 +1,2 @@
-### Repositório para sistemas simples em Java
+### Repositório para colocar em prática exercícios e conceitos Java
 
